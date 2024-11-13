@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Lora&family=Michroma&display=swap');
+
+/* https://coolors.co/de1a1a-e8ebf7-fb790e-f0f66e-191102 */
+
+.red {
+    background-color: #de1a1a;
+}
+
+.white {
+    background-color: #e8ebf7;
+}
+
+.pink {
+    background-color: #FF37A6;
+}
+
+.yellow {
+    background-color: #f0f66e;
+}
+
+.black {
+    background-color: #191102;
+}
+
+h1 {
+    font-family: "Michroma", sans-serif;
+    color: #e8ebf7;
+}
+
+h1:hover {
+    color: #FF37A6;
+}
+.navbar-brand {
+    font-family: "Michroma", sans-serif;
+    color: #f0f66e
+}
+
+.navbar-toggler {
+    background-color: #FF37A6;
+}
+body {
+    background-color: #191102;
+}
+
+.navbar {
+    background-color: #191102 !important;
+}
